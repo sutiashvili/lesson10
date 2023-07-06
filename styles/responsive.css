@@ -1,0 +1,28 @@
+@media (max-width:744px) {
+    .flex-header {
+        column-gap: 87.5px;
+    }
+
+
+}
+
+
+
+
+@media (max-width:480px) {
+
+    .burger-bar {
+        display: block;
+        color: white;
+        background-color: black;
+    }
+    
+
+
+
+    .navigation-block,
+    .btn-element{
+        display: none;
+        background-color: yellow;
+    }
+}
